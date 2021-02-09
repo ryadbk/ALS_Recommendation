@@ -1,0 +1,49 @@
+* Membres de l'équipe: 
+** Aknoun Mehdi aknoun.mehdi11@gmail.com  0752173293
+** Boukercha Ryad boukercharyad@gmail.com 0753994328
+** Douzane Mohamed gm_douzane@esi.dz 0751109963
+
+
+* <3/11/2020>
+** A FAIRE:
+** Une première base de données 
+** Chaier de charges 
+
+
+* <18/11/2020>
+** FAIT:
+*** Crée une API pour recuperer les restos
+** A FAIRE:
+*** 1) Supprimer les fichier non-necessaires dans le git
+*** 2) Ecrire le necessaire pour pouvoir utilisers les donnée
+*** de TripAdvisor / TheFork
+*** 3) Protype application GUI Android qui affiches desinfo 
+*** sur les restos
+
+
+
+* <02/12/2020>
+** FAIT:
+*** Supprimé les fichiers non necessaire
+*** Decidé de ne pas utiliser TripAdvisor
+*** Créé backend de l'application
+** A FAIRE:
+*** Petit prototype application
+*** Ajouter les info sur "npm"
+*** Choisir une famille d'algo pour proposer un resto aux utilisateurs
+*** (voir ce que les applis similaires font)
+
+* <26/01/2021>
+**FAIT : 
+*** FRONT :
+*Mohamed : Designed Login/SignUp/Home page/Preferences for users
+*** BACK :
+*Mehdi :  setup Database, Login/signUp, set user preferences routes, prettier and husky configuration.
+*** Algo:
+*Ryad : Researches about Group recommendation algortihms, and wrote an algorithm that can get group preference for a restaurant  based on Individual preferences for each restaurant.
+*Implemented an ALS algorithm for recommending restaurants for users based on other user's preferences.
+
+*** cleaned repo (supprimer les fichiers non necessaires)
+** A FAIRE:
+*** FRONT : Finish building app screens and creating the workflow of rooms creation
+*** BACK : Finish building restaurants filtering routes
